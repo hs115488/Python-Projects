@@ -1,5 +1,0 @@
-create table if not exists trader-profit(
-	id int primary key auto-increment,
-	name text not null,
-	profit int null
-)
